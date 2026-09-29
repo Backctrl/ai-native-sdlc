@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 原生团队开发流程"
+  short_description: "统一团队从需求、设计到开发、验证、发布与复盘的协作流程和交付证据"
+  default_prompt: "请使用 $ai-native-sdlc，读取当前项目约定，按任务规模组织团队开发流程，并推进到已授权范围内的可验证交付。"
